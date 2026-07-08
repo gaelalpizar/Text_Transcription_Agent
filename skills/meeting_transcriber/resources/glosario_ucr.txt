@@ -1,0 +1,99 @@
+AD | Escuela de Artes Dramáticas
+AG | Facultad de Agronomía
+AM | Escuela de Artes Musicales
+AP | Escuela de Artes Plásticas
+AQ | Escuela de Arquitectura
+AU | Edificio de Aulas
+BA | Facultad de Bellas Artes
+BI | Escuela de Biología
+BL | Escuela de Bibliotecología
+CE | Facultad de Ciencias Económicas
+CS | Facultad de Ciencias Sociales
+DE | Facultad de Derecho
+ED | Facultad de Educación
+EE | Escuela de Enfermería
+EF | Escuela de Educación Física
+EG | Escuela de Estudios Generales
+ES | Edificio Saprissa
+FA | Facultad de Farmacia
+FC | Facultad de Ciencias
+FM | Edificio Físico Matemática
+GE | Escuela de Geología
+IE | Escuela de Ingeniería Eléctrica
+IF | Escuela de Computación e Informática
+IN | Facultad de Ingeniería
+LE | Facultad de Letras
+ME | Facultad de Medicina
+MI | Facultad de Microbiología
+NU | Escuela de Nutrición
+OD | Facultad de Odontología
+QU | Escuela de Química
+SA | Escuela de Salud Pública
+TA | Escuela de Tecnología de Alimentos
+TS | Escuela de Tecnologías en Salud
+CIDICER | Centro de Investigaciones sobre Diversidad Cultural y Estudios Regionales
+CIICLA | Centro de Investigación en Identidad y Cultura Latinoamérica
+IIArte | Instituto de Investigaciones en Arte
+INIF | Instituto de Investigaciones Filosóficas
+INIL | Instituto de Investigaciones Lingüísticas
+EEAFBM | Estación Experimental Agrícola Fabio Baudrit Moreno
+RSM | Reserva Siete Manantiales
+ML | Módulo Lechero
+JEC | Jardín Etnobotánico Caribe
+FEP | Finca Experimental Pejibaye
+FC | Finca El Coralillo
+FESA | Finca Experimental Santa Ana
+JBO | Jardín Botánico José María Orozco
+RLO | Reserva Leonelo Oviedo
+ReBAMB | Reserva Biológica Alberto Manuel Brenes
+FEF | Finca Experimental Fraijanes
+FESC | Finca Experimental de Santa Cruz
+JBL | Jardín Botánico Lankester
+FEIMA | Finca Experimental Interdisciplinaria de Modelos Agroecológicos
+EEAVM | Estación Experimental de Ganado Lechero Alfredo Volio Mata
+CIGRAS | Centro para Investigaciones en Granos y Semillas
+CINA | Centro de Investigación en Nutrición Animal
+CIEDA | Centro de Investigación en Economía Agrícola y Desarrollo Agroempresarial
+CIA | Centro de Investigaciones Agronómicas
+CITA | Centro Nacional de Ciencia y Tecnología de Alimentos
+CIPROC | Centro de Investigación en Protección de Cultivos
+IIA | Instituto de Investigaciones Agrícolas
+RAP | Unidad Especial de Investigación Red de Áreas Protegidas de la Universidad de Costa Rica
+CIMPA | Centro de Investigaciones en Matemática Pura y Aplicada
+CIGEFI | Centro de Investigaciones Geofísicas
+CELEQ | Centro de Investigación en Electroquímica y Energía Química
+CICA | Centro en Investigación en Contaminación Ambiental
+CICANUM | Centro de Investigación en Ciencias Atómicas Nucleares y Moleculares
+CICIMA | Centro de Investigación en Ciencia e Ingeniería de Materiales
+CICG | Centro de Investigación en Ciencias Geológicas
+CIEMIC | Centro de Investigación en Estructuras Microscópicas
+CINESPA | Centro de Investigaciones Espaciales
+CIPRONA | Centro de Investigaciones en Productos Naturales
+CIMM | Centro de investigaciones Matemáticas y Metamatemáticas
+CIMAR | Centro de Investigación en Ciencias del Mar y Limnología
+CIBCM | Centro de Investigación en Biología Celular y Molecular
+OdD | Observatorio del Desarrollo
+INIE | Instituto de Investigación en Educación
+IIP | Instituto de Investigaciones Psicológicas
+IICE | Instituto de Investigación en Ciencias Económicas
+IIJ | Instituto Investigaciones Jurídicas
+IIS | Instituto de Investigaciones Sociales
+CIEP | Centro de Investigación y Estudios Políticos
+CIHAC | Centro de Investigaciones Históricas de América Central
+CIEM | Centro de Investigación en Estudios de La Mujer
+CICOM | Centro de Investigación en Comunicación
+CICAP | Centro de Investigación y Capacitación en Administración Pública
+CCP | Centro Centroamericano de Población
+CIMOHU | Centro de Investigación en Ciencias del Movimiento Humano
+LEBI | Laboratorio de Ensayos Biológicos
+INISA | Instituto de Investigaciones en Salud
+ICP | Instituto Clodomiro Picado
+INIFAR | Instituto de Investigaciones Farmacéuticas
+CIHATA | Centro de Investigación en Hematología y Trastornos Afines
+CIET | Centro de Investigación en Enfermedades Tropicales
+CIN | Centro de Investigación en Neurociencias
+PRODUS | Programa de Investigación en Desarrollo Urbano Sostenible
+CIEDES | Centro de Investigaciones en Desarrollo Sostenible
+CITIC | Centro de Investigación de Tecnologías de la Información y Computación
+INII | Instituto Investigaciones en Ingeniería
+LANAMME | Laboratorio Nacional de Materiales y Modelos Estructurales

@@ -1,0 +1,11 @@
+faster-whisper
+pydub
+requests
+numpy
+scikit-learn
+librosa
+soundfile
+webrtcvad-wheels
+resemblyzer
+torch
+typing

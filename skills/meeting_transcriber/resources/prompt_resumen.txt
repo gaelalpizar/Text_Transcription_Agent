@@ -1,0 +1,8 @@
+A partir de la transcripción de una reunión, generar:
+
+1. Resumen general.
+2. Puntos principales.
+3. Posibles acuerdos.
+4. Posibles tareas pendientes.
+
+El resultado debe ser claro, ordenado y breve.
