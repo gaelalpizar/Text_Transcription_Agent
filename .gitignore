@@ -1,0 +1,90 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de configuración local
+.env
+.env.*
+*.env
+
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Archivos generados por el proyecto
+# =========================
+outputs/
+recordings/
+
+# Audios y videos confidenciales
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Transcripciones y reportes generados
+transcripcion_*.txt
+diarizacion_local_*.txt
+transcripcion_con_participantes_*.txt
+transcripcion_limpia_*.txt
+hallazgos_limpieza_*.txt
+resumen_*.txt
+
+# =========================
+# Modelos / cachés de IA
+# =========================
+models/
+.cache/
+.cache/
+huggingface/
+.huggingface/
+*.bin
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.safetensors
+
+# =========================
+# PyInstaller / ejecutables
+# =========================
+build/
+dist/
+*.spec
+*.exe
+
+# =========================
+# Logs y temporales
+# =========================
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
