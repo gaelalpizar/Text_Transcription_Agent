@@ -118,7 +118,9 @@ python -m pip install --upgrade pip setuptools wheel
 Luego se instalan las dependencias del proyecto:
 
 ```powershell
+pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
+pip install resemblyzer --no-deps
 ```
 
 El archivo `requirements.txt` contiene:
@@ -156,7 +158,7 @@ En esta versión del proyecto no se utiliza una API externa para transcribir el 
 Con el entorno virtual activado, se ejecuta:
 
 ```powershell
-python main.py
+python app.py
 ```
 
 Luego se ingresa la ruta del archivo de audio, por ejemplo:
